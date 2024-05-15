@@ -1,0 +1,46 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;\
+
+}
+
+.Parent-container{
+    background-color: #008000;
+    padding: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Child-container{
+    color: white;
+    margin-right: 40px;
+    background-color: #023602;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+ 
+}
+.Child-container-2{
+  padding-left: 40px;
+     
+
+}
+#head{
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    padding: 30px;
+    border: 2px dashed white;
+    line-height: 30px;
+}
+#img{
+    width: 100%;
+    height: auto;
+}
